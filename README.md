@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🎓 Certificações
-
-[![IBM Badge](https://images.credly.com/size/200x200/images/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/badge.png)](https://www.credly.com/badges/216670ab-736b-47e8-88a8-567efcbb200f/public_url)  
 **IBM - watsonx Agentic AI Bootcamp - Level 2**  
+<a href="https://www.credly.com/badges/216670ab-736b-47e8-88a8-567efcbb200f" target="_blank">
+  <img src="https://raw.githubusercontent.com/Danilo011/assets/main/watsonx-agentic-ai-bootcamp-level-2.png" width="150">
+</a>
+
