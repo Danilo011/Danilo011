@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.credly.com/badges/216670ab-736b-47e8-88a8-567efcbb200f/public_url" target="_blank">
-  <img src="https://images.credly.com/size/200x200/images/216670ab-736b-47e8-88a8-567efcbb200f/badge.png" width="120" alt="IBM Badge">
-</a>
+## 🎓 Certificações
 
+[![IBM Badge](https://images.credly.com/size/200x200/images/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/badge.png)](https://www.credly.com/badges/216670ab-736b-47e8-88a8-567efcbb200f/public_url)  
+**IBM - watsonx Agentic AI Bootcamp - Level 2**  
